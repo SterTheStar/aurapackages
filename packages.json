@@ -1,10 +1,10 @@
 {
   "packages": {
     "exemplo-pacote": {
-      "name": "exemplo-pacote",
+      "name": "nodefetch",
       "version": "1.0.0",
-      "description": "Pacote de exemplo para o gerenciador de pacotes aura",
-      "author": "Seu Nome",
+      "description": "nodefetch is a neofetch clone in nodejs",
+      "author": "Esther",
       "url": "https://github.com/seu-usuario/exemplo-pacote/archive/refs/heads/main.zip"
     }
   }
